@@ -528,6 +528,12 @@ index:
 # Post Page
 #---------------------------
 post:
+
+  math:
+    enable: true
+    specific: false
+    engine: katex
+    
   banner_img: /img/default.png
   banner_img_height: 70
   banner_mask_alpha: 0.3
