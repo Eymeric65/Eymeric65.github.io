@@ -94,12 +94,6 @@ include:
 exclude:
 ignore:
 
-#Add katex support
-markdown:
-  plugins:
-    - "@traptitech/markdown-it-katex"
-
-
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
