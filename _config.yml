@@ -95,9 +95,9 @@ exclude:
 ignore:
 
 #Add katex support
-#markdown:
-#  plugins:
-#    - "@traptitech/markdown-it-katex"
+markdown:
+  plugins:
+    - "@traptitech/markdown-it-katex"
 
 
 # Extensions
